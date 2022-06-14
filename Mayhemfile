@@ -1,4 +1,4 @@
-project: jbgreenh/xml2json
+project: xml2json
 target: xml2json
 
 cmds:
